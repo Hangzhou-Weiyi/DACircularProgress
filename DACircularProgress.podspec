@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "DACircularProgress"
-  s.version      = "2.3.1-BXS"
+  s.version      = "2.3.2"
   s.summary      = "DACircularProgress is a UIView subclass with circular UIProgressView properties."
   s.description  = <<-DESC
                     DACircularProgress is a UIView subclass with circular UIProgressView properties.
