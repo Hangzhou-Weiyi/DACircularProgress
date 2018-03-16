@@ -227,7 +227,6 @@
 {
    NSNumber *pinnedProgressNumber = [animation valueForKey:@"toValue"];
    self.circularProgressLayer.progress = [pinnedProgressNumber floatValue];
-   [self.circularProgressLayer removeAnimationForKey:@"progress"];
 }
 
 
